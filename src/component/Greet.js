@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Greet(){
-    return <h1>Hello Maharshi</h1>
+    return <h1>Function Component from Greet</h1>
 }
 
 // Arrow Function
